@@ -1,6 +1,6 @@
 # ECE_387_Final
-This README will servce as the wiki for my ECE 387 final project.
-TO start off, here is a video quickly demoing the functionality:
+This will servce as the wiki for my ECE 387 final project.
+To start off, here is a video quickly demoing the functionality:
 https://www.youtube.com/watch?v=xCgmdyfzFtA
 
 To provide some context, this final is a continuation of my ECE 387 midterm project, an SD logging GPS system to me mounted on a drone:
