@@ -14,5 +14,5 @@ http://imgur.com/a/4bzTD
 The first step in setting up this project is wiring it together. Fortunately for me, the ADAFruit Ultimate GPS Logger Pro stacks perfcetly into the UNO and also leaves an extra port on each pin. This means all I had to do was connect the ADAFruit Bluetooth chip directly to my GPS shield. Below is the pin layout used:
 http://imgur.com/a/8txw3
 
-Because the GPS Shield's pins didn't prove to be reliable, I had to solder female connector pins onto my shield to connect the Bluetooth so be warned if you can't find your BLE device while testing. Unfortunately the NRF8001 doesn't have an LED to indicate power like the GPS chip does, so for degugging using an LED to verify proved helpful because a lot of the problems I ran into were hardware issues. Below is my final setup used:
+Because the GPS Shield's pins didn't prove to be reliable, I had to solder female connector pins onto my shield to connect the Bluetooth so be warned if you can't find your BLE device while testing. Unfortunately the NRF8001 doesn't have an LED to indicate power like the GPS chip does, so for degugging using an LED to verify proved helpful because a lot of the problems I ran into were pin connection issues. Below is my final setup used:
 http://imgur.com/a/OcHAM
