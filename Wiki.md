@@ -19,9 +19,9 @@ Because the GPS Shield's pins didn't prove to be reliable, I had to solder femal
 http://imgur.com/a/OcHAM
 
 Below is a list of resources utalized, as well as any non-standard libraries used in the project:
-http://www.gpsinformation.org/dale/nmea.htm
-https://github.com/adafruit/Adafruit_GPS
-https://github.com/adafruit/SD
-https://github.com/adafruit/Adafruit_nRF8001
-https://www.amazon.com/gp/product/1457187094/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1
+http://www.gpsinformation.org/dale/nmea.htm  
+https://github.com/adafruit/Adafruit_GPS  
+https://github.com/adafruit/SD  
+https://github.com/adafruit/Adafruit_nRF8001  
+https://www.amazon.com/gp/product/1457187094/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1  
 
