@@ -24,4 +24,5 @@ https://github.com/adafruit/Adafruit_GPS
 https://github.com/adafruit/SD  
 https://github.com/adafruit/Adafruit_nRF8001  
 https://www.amazon.com/gp/product/1457187094/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1  
+https://learn.adafruit.com/adafruit-ultimate-gps-logger-shield
 
